@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 13 08:19:04 2019
-
-@author: michelleharris
-"""
-
 import bs4 as bs
 import urllib.request
 import pandas as pd
